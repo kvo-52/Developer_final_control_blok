@@ -1,10 +1,10 @@
 package Developer_final_control_blok_2.Java.UserInterface;
 
 import java.util.Scanner;
-import Controller.*;
+import Developer_final_control_blok_2.Java.Controller.*;
 import Developer_final_control_blok_2.Java.Controller.PetController;
-import Exceptions.UncorrectDataException;
-import Model.PetType;
+import Developer_final_control_blok_2.Java.Exceptions.UncorrectDataException;
+import Developer_final_control_blok_2.Java.Model.PetType;
 
 public class ConsoleMenu {
 

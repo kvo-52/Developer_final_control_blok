@@ -2,11 +2,11 @@ package Developer_final_control_blok_2.Java.Controller;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import Exceptions.UncorrectDataException;
-import Model.*;
-import Services.IRepository;
-import Services.PetRepository;
-import UserInterface.*;
+import Developer_final_control_blok_2.Java.Model.*;
+import Developer_final_control_blok_2.Java.Services.*;
+import Developer_final_control_blok_2.Java.UserInterface.ConsoleView;
+import Developer_final_control_blok_2.Java.UserInterface.View;
+
 
 public class PetController {
     private IRepository<Pet> petRepository;

@@ -1,10 +1,9 @@
 package Developer_final_control_blok_2.Java;
 
-import Controller.PetController;
-import Model.Pet;
-import Services.IRepository;
-import Services.PetRepository;
-import UserInterface.ConsoleMenu;
+import Developer_final_control_blok_2.Java.Controller.PetController;
+import Developer_final_control_blok_2.Java.Model.Pet;
+import Developer_final_control_blok_2.Java.Services.*;
+import Developer_final_control_blok_2.Java.UserInterface.ConsoleMenu;
 
 public class Programma {
     public static void main(String[] args) throws Exception {

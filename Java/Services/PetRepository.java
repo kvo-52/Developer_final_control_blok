@@ -9,7 +9,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.sql.*;
 import java.time.LocalDate;
-import Model.*;
+import Developer_final_control_blok_2.Java.Model.*;
 
 
 public class PetRepository implements IRepository<Pet> {

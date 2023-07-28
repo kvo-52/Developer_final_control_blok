@@ -1,3 +1,5 @@
+package Developer_final_control_blok_2.Java.Services;
+
 import java.util.List;
 
 public interface IRepository <T> {
